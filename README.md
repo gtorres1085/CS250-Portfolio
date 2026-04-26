@@ -50,5 +50,22 @@ During this course, I worked in multiple roles within the Scrum Team:
 - Agile Presentation (PowerPoint)
 - Course assignments and reflections
 
+## CS 250 Final Project Artifact
+Sprint Review and Retrospective document is included in this repository.
+Interpreting User Needs & User Stories
+
+When I think about user needs, I look at it from the user’s perspective first, not the code. What are they actually trying to do? What problem are they trying to solve? That’s where user stories come in.
+
+User stories help break everything down into simple, clear goals like: “As a user, I want to do X so I can accomplish Y.” That makes it easier to understand the purpose behind each feature instead of just building something blindly.
+
+For me, user stories made a big difference because they:
+
+Keep the focus on the user, not just the system
+Help organize features into manageable pieces
+Make it easier to test if something actually works or not
+
+Instead of guessing what to build, I’m building based on actual needs.
+
+
 ## Author
 Gustavo Torres
